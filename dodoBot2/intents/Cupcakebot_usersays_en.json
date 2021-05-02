@@ -1,0 +1,160 @@
+[
+  {
+    "id": "5f0fd26f-f580-4a03-ba98-7187a055ba60",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@typeofcake",
+        "alias": "typeofcake",
+        "userDefined": true
+      },
+      {
+        "text": " cupcake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1da3e36d-4efb-4f8a-8252-67ac4c1900a1",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " cupcake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "759ac08c-b629-4588-b15e-904dc8a72e78",
+    "data": [
+      {
+        "text": "order cupcake ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75832338-d383-4ead-aa39-ac7683d402d7",
+    "data": [
+      {
+        "text": "order cupcake to ",
+        "userDefined": false
+      },
+      {
+        "text": "flat 4, gandhi street",
+        "meta": "@sys.address",
+        "alias": "address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6b5af4c-d3de-4cd9-a9e0-032368fbcb95",
+    "data": [
+      {
+        "text": "order cupcake to ",
+        "userDefined": false
+      },
+      {
+        "text": "654684684",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f35bb5b-8bcf-4456-afc1-480f1756f67b",
+    "data": [
+      {
+        "text": "order cupcake to ",
+        "userDefined": false
+      },
+      {
+        "text": "asl@gm.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "478b8c04-f9f0-42ea-9a5a-b3e6e7a22c39",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " a cupcake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b078b408-2f8e-42a5-bc13-fa120858b108",
+    "data": [
+      {
+        "text": "order cupcake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

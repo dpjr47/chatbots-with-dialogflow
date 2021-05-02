@@ -1,0 +1,39 @@
+{
+  "id": "43c961ec-6283-48b4-a171-c3286c17ebfb",
+  "parentId": "faf7907e-d46f-414b-89c1-bb4287b8625f",
+  "rootParentId": "faf7907e-d46f-414b-89c1-bb4287b8625f",
+  "name": "Cupcakebot - yes",
+  "auto": true,
+  "contexts": [
+    "Cupcakebot-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Cupcakebot.Cupcakebot-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You will be charged an extra of 15rs , Thankyou for ordering from CakeMonster."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

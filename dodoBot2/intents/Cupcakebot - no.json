@@ -1,0 +1,39 @@
+{
+  "id": "6ec2996d-ad1c-4739-adc8-9d619b42e7c6",
+  "parentId": "faf7907e-d46f-414b-89c1-bb4287b8625f",
+  "rootParentId": "faf7907e-d46f-414b-89c1-bb4287b8625f",
+  "name": "Cupcakebot - no",
+  "auto": true,
+  "contexts": [
+    "Cupcakebot-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Cupcakebot.Cupcakebot-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thankyou for ordering from CakeMonster"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

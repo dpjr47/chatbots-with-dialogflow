@@ -1,0 +1,9 @@
+{
+  "id": "99189fc2-8ad6-43b3-b605-397cce5f09c5",
+  "name": "typeofcake",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
